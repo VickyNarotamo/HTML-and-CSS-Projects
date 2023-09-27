@@ -1,0 +1,5 @@
+Write and execute a command-line command (console command) within Visual Studio Code from the Integrated Terminal.
+cd.. Takes me from Write and execute a command-line command (console command) within Visual Studio Code from the Integrated Terminal. 
+To : PS C:\Users\Xedoc\OneDrive\Documents\GitHub>
+cd HTML-and-CSS-Projects
+Takes me back to where I started.
