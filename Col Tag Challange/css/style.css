@@ -1,0 +1,27 @@
+/* styles.css */
+
+/* Style for columns in the table */
+.column-1 {
+    width: 20%;
+}
+
+.column-2 {
+    width: 30%;
+}
+
+.column-3 {
+    width: 50%;
+}
+
+/* Style for header cells (th) */
+th {
+    background-color: rgb(45, 77, 255);
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Style for data cells (td) */
+td {
+    background-color: lightblue;
+    text-align: center;
+}
