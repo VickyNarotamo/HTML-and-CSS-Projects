@@ -2,7 +2,7 @@
  In this repository you will see an html css template for projects worked on
 
 There are two projects I have worked on: 
-1. A Movie Theator Site
+1. A Movie Theater Site
 2. Crew Motorfest Site
 
 Movie Theater Site 
