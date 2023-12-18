@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+p {
+    color: black; /* Default text color */
+}
+
+@media (max-width: 600px) {
+    p {
+        color: blue; /* Text color for screens smaller than 600px */
+    }
+}
